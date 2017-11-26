@@ -1,1 +1,48 @@
 main.css
+.title {
+	color:brown;
+	font-family:Helvetica;
+	font-size:28px;
+	text-transform:Underline;
+	background-color:aqua;
+
+.hello {
+	font-family:'Lobster' cursive;
+	text-align:center;
+	margin:0 auto;
+	padding:5px, 10px;
+}
+
+.header {
+	font-family:'Dancing Script', cursive;
+	font-size:18px;
+}
+.circle {
+	text-align:center;
+	border:2px;
+	font-family:Georgia;
+	font-size:24px;
+	height:200px;
+	width:220px;
+	mini-max width: 150px; 250px;
+}
+
+.shine {
+	color:black;
+	font-family:Arial;
+	text-transform:Uppercase;
+	background-color:cerulean;
+	font-size:20px;
+	height:200px;
+	width:220px;
+}
+
+.aloneatlast {
+	color:green;
+	font-family:'Satisfy' cursive;
+	background-color:orange;
+	font-size:24px;
+	text-align:center;
+	height:200px;
+	width:220px;
+}
